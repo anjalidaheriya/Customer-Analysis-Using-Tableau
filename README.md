@@ -31,7 +31,7 @@ An interactive Tableau dashboard analyzing ₹200.9M in sales across **regions**
 
 - [Tableau Desktop](https://www.tableau.com/products/desktop) – Visual analytics and dashboarding
 - Microsoft Excel / Google Sheets – Data cleaning
-- SQL (Optional) – Data transformation (if applicable)
+- SQL – Data transformation
 --
  ## 🌐 Live Dashboard 
 
